@@ -130,8 +130,10 @@ if ch2=="cocktails" or ch2=="COCKTAILS":
     else:
         print("\n\t\t\t\t\t\t\t THIS COCKTAIL DRINK IS NOT AVILABLE IN OUR RESTAURANT")
 
-print("\n\n\n\n\t PROCESSING......YOUR TOTAL ORDER IS :::")
+print("\n\n\n\n\t PROCESSING......")
 time.sleep(4)
+
+print("\n\t YOUR TOTAL ORDER IS :::")
 print("\n\n\n\t\t\t\t\t\t\t\t\t    ||||| ORDER ||||| ")
 
 print("\n\t\t\t\t\t\t\t ______________________________________________________")
